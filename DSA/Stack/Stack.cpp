@@ -31,7 +31,9 @@ void MyStack::Pop(){
     else{
         cout<<"Poped item is "<<s[top]<<endl;
         top--;
-    }
+    
+    
+    // this is code of stack
     
 }
 
